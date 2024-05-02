@@ -3,7 +3,7 @@ const fs = require('fs');
 const readline = require('readline');
 
 const url =
-  'https://docs.google.com/forms/d/e/1FAIpQLSf07dmJH1MbAroENm2pQPVoN99-FcGEhnToMj3OBgs2R4B_NQ/viewform';
+  'https://docs.google.com/forms/u/0/d/e/1FAIpQLSf07dmJH1MbAroENm2pQPVoN99-FcGEhnToMj3OBgs2R4B_NQ/formResponse';
 
 const headers = {
   'Content-Type': 'application/x-www-form-urlencoded',
